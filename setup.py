@@ -14,7 +14,7 @@ setup(
     python_requires='>=3.8',
     install_requires=[
         # 'online-judge-api-client >= 10.9.0, < 11',
-        'online-judge-api-client @ git+ssh://git@github.com/goropikari/api-client.git',
+        'online-judge-api-client @ git+https://github.com/goropikari/api-client',
         'colorama >= 0.3, < 1',
         'packaging >= 24',
         'requests >= 2, < 3',
